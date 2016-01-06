@@ -6,6 +6,7 @@ set nocompatible
 
 syntax on
 set number
+set spell
 
 " Tab settings
 set expandtab
