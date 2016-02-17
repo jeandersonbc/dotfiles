@@ -4,6 +4,8 @@
 "
 set nocompatible
 
+colorscheme evening
+
 syntax on
 set number
 set spell
