@@ -9,6 +9,9 @@ colorscheme evening
 syntax on
 set number
 set spell
+set cursorline
+
+set incsearch
 
 " Tab settings
 set expandtab
