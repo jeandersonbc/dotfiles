@@ -26,7 +26,7 @@ fi
 # Environment Variables
 
 java_home_dir="/usr/lib/jvm/default-java"
-if [ -d java_home_dir ]; then
+if [ -d "$(echo $java_home_dir)" ]; then
     export JAVA_HOME=java_home_dir
     export PATH="$PATH:$JAVA_HOME/bin"
 fi
