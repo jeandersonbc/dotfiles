@@ -7,10 +7,9 @@ set nocompatible
 colorscheme evening
 
 syntax on
-set number
 set spell
-set cursorline
-
+set wildmenu
+set textwidth=70
 set incsearch
 
 " Tab settings
