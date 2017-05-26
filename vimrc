@@ -12,6 +12,7 @@ set wildmenu
 set textwidth=70
 set incsearch
 set hlsearch
+set nowrap
 
 " Tab settings
 set expandtab
