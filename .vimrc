@@ -5,6 +5,7 @@ colorscheme desert
 
 syntax on
 set wildmenu
+set ruler
 set nowrap
 
 set hlsearch
