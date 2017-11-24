@@ -1,12 +1,12 @@
 " My vimrc settings
 " Jeanderson Candido <http://jeandersonbc.github.io>
 set nocompatible
-colorscheme desert
 
 syntax on
 set wildmenu
 set ruler
 set nowrap
+set nu
 
 set hlsearch
 set incsearch
