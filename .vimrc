@@ -1,6 +1,7 @@
 " My vimrc settings
 " Jeanderson Candido <http://jeandersonbc.github.io>
 set nocompatible
+set spell
 
 syntax on
 set wildmenu
@@ -12,6 +13,7 @@ set hlsearch
 set incsearch
 set smartcase
 set smartindent
+set ignorecase
 
 set expandtab
 set ts=4
